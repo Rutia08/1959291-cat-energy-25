@@ -1,5 +1,7 @@
 # Личный проект «Кэт энерджи»
 
+https://rutia08.github.io/1959291-cat-energy-25/
+
 * Студент: [Юрий Рудько](https://up.htmlacademy.ru/adaptive/25/user/1959291).
 * Наставник: [Сергей Остаповец](https://htmlacademy.ru/profile/seraphim).
 
